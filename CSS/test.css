@@ -1,0 +1,16 @@
+h1, p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 60px;
+}
+
+li {
+    margin-left: 100px;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 2;
+}
+img {
+    width: 500px;
+    transform: rotate(350deg);
+    margin-left: 80px;
+}
