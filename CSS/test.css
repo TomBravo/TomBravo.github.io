@@ -14,3 +14,7 @@ img {
     transform: rotate(350deg);
     margin-left: 80px;
 }
+
+html {
+    background-image: url(..\img\camo_background.jpg);
+}
